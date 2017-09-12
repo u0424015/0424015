@@ -7,6 +7,6 @@
 
 :sunny:
 
-![NKFUST](1234.jpge)
+![NKFUST](1234.jpg)
 
 
