@@ -7,5 +7,6 @@
 
 :sunny:
 
-#資管3A
+![NKFUST](1234.jpge)
+
 
